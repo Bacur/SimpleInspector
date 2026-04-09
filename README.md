@@ -33,10 +33,6 @@ Optional modules:
 - `SimpleInspector.MarkdownViewer`
 - `SimpleInspector.ConfigsBrowser`
 
-## Author
-
-Stepan Selyuchenko
-
 ## GitHub
 
 https://github.com/Bacur/SimpleInspector
