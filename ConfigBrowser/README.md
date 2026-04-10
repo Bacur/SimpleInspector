@@ -34,7 +34,7 @@ public class ExampleProjectConfig : ScriptableObject
 - plain text
 - nested paths through `/` or `\`
 - template values such as `{FieldName}`, `{PropertyName}`, `{Nested.Value}`
-- asset-folder token such as `{#ParentFolderName_2}`
+- asset-folder token such as `{#ParentFolderName_N}`
 
 ## Built-In Actions
 

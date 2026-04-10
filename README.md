@@ -21,20 +21,6 @@ It is organized as separate modules that can be used together or packaged indepe
 - `ConfigsBrowser`
   Tree-based browser for `ScriptableObject` configs marked with `ProjectConfigAttribute`.
 
-## Main Menu
-
-- `SimpleInspector/Documentation`
-- `SimpleInspector/Markdown Viewer`
-- `SimpleInspector/Configs Browser`
-- `SimpleInspector/Feature Center`
-- `SimpleInspector/Refresh All`
-- `SimpleInspector/Feature Center Validate All`
-- `SimpleInspector/About Simple Inspector`
-
-## Packaging
-
-The plugin supports separate `unitypackage` export per module.
-
 Base dependency:
 
 - `SimpleInspector.Core`
@@ -46,10 +32,6 @@ Optional modules:
 - `SimpleInspector.Group`
 - `SimpleInspector.MarkdownViewer`
 - `SimpleInspector.ConfigsBrowser`
-
-## Author
-
-Stepan Selyuchenko
 
 ## GitHub
 
